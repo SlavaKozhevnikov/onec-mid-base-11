@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ВИК_Должность</content>
   <content>Catalog.ВИК_КонтактныеЛица</content>
+  <content>Document.ВИК_Доставка</content>
 </mdclass:Subsystem>
