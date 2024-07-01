@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="218b3ab0-7998-41cb-848a-6bceebd996d7">
+  <name>ВнесенныеИзмененияКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Внесенные изменения конфигурации</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.ВИК_Должность</content>
+  <content>Catalog.ВИК_КонтактныеЛица</content>
+</mdclass:Subsystem>
